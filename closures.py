@@ -1,3 +1,7 @@
+# https://www.youtube.com/watch?v=swU3c34d2NQ
+# https://github.com/CoreyMSchafer/code_snippets/tree/master/Closures
+
+
 def outer_func(msg):
     message = msg 
 
